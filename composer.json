@@ -14,5 +14,6 @@
             "email": "zhangfengman6235@163.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
