@@ -1,0 +1,18 @@
+{
+    "name": "zhangfengman/phptest",
+    "description": "php test",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Zhangfengman\\Phptest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhangfengman",
+            "email": "zhangfengman6235@163.com"
+        }
+    ],
+    "require": {}
+}
