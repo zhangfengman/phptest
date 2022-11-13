@@ -1,5 +1,5 @@
 <?php 
-namespace zhangfengman\tset;
+namespace zhangfengman\Phptest;
 class Test {
     public static function say(){
         echo 'zhang';
